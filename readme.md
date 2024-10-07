@@ -29,7 +29,7 @@ I'm a **Software Developer** with over **3 years of experience** in building web
 
 
 - Email: (mailto:seghiaranass@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/anass-seghiar-628376222/)
+- LinkedIn: (https://www.linkedin.com/in/seghiar-anass/)
 
 
 ---
