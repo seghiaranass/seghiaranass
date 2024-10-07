@@ -34,4 +34,3 @@ I'm a **Software Developer** with over **3 years of experience** in building web
 
 ---
 
-Feel free to customize this README by adding your own projects, contact information, or any other details you'd like to share.
