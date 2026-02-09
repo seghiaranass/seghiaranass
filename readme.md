@@ -1,36 +1,44 @@
 # Hi there 👋
 
-I'm a **Software Developer** with over **3 years of experience** in building web applications and services. I'm passionate about coding, learning new technologies, and solving complex problems.
+I'm an **Infrastructure & DevOps Engineer** with over **4 years of experience** managing production systems, automating workflows, and solving server problems fast.
 
-## 🚀 About Me
+## 🚀 What I Do
 
-- 🌐 Proficient in **JavaScript**, **Python**, **C#**, **PHP**, **Laravel**, and **Node.js**.
-- 🛠️ Experienced with **DevOps** tools like **Docker** and **Kubernetes**, as well as setting up **load balancers** and configuring **web servers**.
-- 💡 Always eager to learn and explore new technologies to enhance my skill set.
+- 🖥️ Manage **2 Proxmox clusters** and **15+ production VMs** across Hetzner and OVH
+- 🐳 Daily **Docker** deployments and container orchestration
+- ⚙️ **CI/CD pipelines** with GitHub Actions (self-hosted runners) for 7+ products
+- 🔧 Server troubleshooting, migrations, and performance optimization
+- 🤖 **n8n automation** — built Telegram bot for real-time Proxmox VM management
+- 🔐 VPN architecture — WireGuard, NetBird, site-to-site networking
+- 📊 Monitoring with Prometheus & Grafana
 
-## 🔧 Technologies & Tools
+## 🔧 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=Proxmox&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=WireGuard&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
 
-## 📈 GitHub Stats
+## 🏗️ Notable Projects
 
-<!-- Replace 'yourusername' with your GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seghiaranass&show_icons=true&theme=radical)
+**Infrastructure Console** — Multi-tenant platform for SSH, RDP, Cloud Shell access with per-org VPN isolation and audit logs
+
+**FlexConfigs** — Distributed server management across 36+ servers with BullMQ job queues and retry logic
+
+**Proxmox Telegram Bot** — Real-time VM management via n8n: list, start/stop, metrics — all from Telegram
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seghiaranass&show_icons=true&theme=tokyonight)
 
 ## 📫 Get in Touch
 
-
-
-- Email: (mailto:seghiaranass@gmail.com)
-- LinkedIn: (https://www.linkedin.com/in/seghiar-anass/)
-
-
----
-
+- 🌐 [anass.dev](https://anass.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/seghiar-anass/)
+- 📧 seghiar.anass@gmail.com
